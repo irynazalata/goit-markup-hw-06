@@ -42,6 +42,10 @@ p {
   color: var(--primary-wh-color);
 }
 
+.hero-button:focus {
+  outline: none;
+}
+
 .hero-button {
   display: block;
   width: 200px;

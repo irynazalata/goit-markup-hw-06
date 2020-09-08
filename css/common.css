@@ -264,6 +264,10 @@ address {
   background-image: url(../images/icon-check.svg);
 }
 
+.modal-form-btn:focus {
+  outline: none;
+}
+
 .modal-form-btn {
   display: block;
   width: 200px;
